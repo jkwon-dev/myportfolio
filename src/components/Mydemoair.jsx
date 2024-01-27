@@ -9,7 +9,7 @@ export default function Mydemoair() {
             <div className='container flex inline-flex'>
                 {/* 비디오, 스크린샷*/}
                 <div>
-                <ReactPlayer url={'/videos/air-quality-video.mp4'} width='600px' height='1000px'  playing={false }controls={true} />
+                <ReactPlayer url={'/videos/air-quality-video.mp4'} width='400px' height='800px'  playing={false }controls={true} />
                 </div>
     
                 <div className='text-3xl '>
