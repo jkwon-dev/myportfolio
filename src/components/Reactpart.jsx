@@ -3,7 +3,7 @@ import Mydemo from './Mydemo'
 
 export default function Reactpart() {
   return (
-    <div>
+    <div className='container'>
       <h1 className='text-6xl text-primary font-bold'>React</h1>
       <Mydemo />
     </div>

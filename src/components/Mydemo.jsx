@@ -11,13 +11,13 @@ export default function Mydemo() {
     <div >
         <h2 className='text-3xl mx-2 my-6 font-bold'>Jeju Market</h2>
         <div>
-        <div className='container flex justify-between'>
+        <div className='container'>
             {/* 비디오, 스크린샷*/}
             <div>
             <img src={Jeju} alt='screenshot'/>
             </div>
 
-            <div className='text-3xl'>
+            <div className='text-2xl mt-4'>
                 <p>- Jeju market website </p>
                 <p>- Google Auth login</p>
                 <p>- Product card, My Cart, Customer review</p>
