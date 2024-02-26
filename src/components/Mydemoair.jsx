@@ -9,13 +9,13 @@ export default function Mydemoair() {
             <div className='flex inline-flex'>
                 {/* 비디오, 스크린샷*/}
                 <div>
-                <ReactPlayer url={'/videos/air-quality-video.mp4'} width='400px' height='800px'  playing={false }controls={true} />
+                <ReactPlayer url={'/videos/air-quality-video.mp4'} width='400px' height='600px'  playing={false }controls={true} />
                 </div>
     
                 <div className='text-3xl '>
                     <p > - Get Air Quality base on my current location  </p>
                     <p> - Fetching AirVisual API</p>
-                    <p> - Swift, SwiftUI and Expo</p>
+                    <p> - Swift, SwiftUI </p>
                     <p> 👈 Click!  Live demo video</p>
                 </div>
             </div>
