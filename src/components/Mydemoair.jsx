@@ -13,9 +13,9 @@ export default function Mydemoair() {
                 </div>
     
                 <div className='text-3xl '>
-                    <p > - Get Air Quality base on my current location  </p>
-                    <p> - Fetching AirVisual API</p>
-                    <p> - Swift, SwiftUI </p>
+                    <p>• 위치기반 미세먼지 확인앱 </p>
+                    <p>• AirVisual API 사용</p>
+                    <p>•  Swift, SwiftUI </p>
                     <p> 👈 Click!  Live demo video</p>
                 </div>
             </div>

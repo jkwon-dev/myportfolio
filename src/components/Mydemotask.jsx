@@ -13,8 +13,8 @@ export default function Mydemotask() {
                 </div>
     
                 <div className='text-3xl'>
-                    <p > - Read,Create and delete a task </p>
-                    <p> - Swift, SwiftUI and SwiftData</p>
+                    <p > • 투두리스트 앱 </p>
+                    <p> • Swift, SwiftUI and SwiftData</p>
                     <p> 👈 Click!  Live demo video</p>
                 </div>
             </div>

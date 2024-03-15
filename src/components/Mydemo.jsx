@@ -17,12 +17,12 @@ export default function Mydemo() {
             <img src={Jeju} alt='screenshot'/>
             </div>
 
-            <div className='text-2xl mt-4'>
-                <p>- Jeju market website </p>
-                <p>- Google Auth login</p>
-                <p>- Product card, My Cart, Customer review</p>
-                <p>- React, Tailwind, Firebase(Auth, Realtime Database)</p>
-                <button className={BUTTON_CSS} onClick={oepnJeju}>Visit Jeju Market website</button>
+            <div className='text-3xl mt-4'>
+                <p>• 제주 농산물 판매 웹사이트 </p>
+                <p>•  Google Auth 로그인</p>
+                <p>• 상품등록, 제품 상세 리스트, 상품 리뷰</p>
+                <p>• React, Tailwind, Firebase(Auth, Realtime Database)</p>
+                <button className={BUTTON_CSS} onClick={oepnJeju}>웹사이트 방문하기</button>
             </div>
         </div>
         </div>
