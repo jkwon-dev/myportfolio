@@ -1,15 +1,12 @@
-import React from 'react'
-import Reactpart from '../Reactpart'
-import Swift from '../Swift'
-import ReactNative from '../ReactNative'
-
+import React from "react";
+import Reactpart from "../Reactpart";
+import Swift from "../Swift";
 
 export default function Skills() {
   return (
-    <div className='flex flex-col'>
-      <ReactNative />
+    <div className="flex flex-col w-4/5">
       <Reactpart />
-      <Swift /> 
+      <Swift />
     </div>
-  )
+  );
 }
